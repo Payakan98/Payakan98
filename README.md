@@ -9,7 +9,7 @@ Disponibilité : Mai 2026
 
 ## À propos de moi
 
-Je suis développeur backend passionné par la conception de systèmes sécurisés et performants.  
+Je suis développeur backend passionnée par la conception de systèmes sécurisés et performants.  
 Je conçois des APIs REST robustes, des pipelines de détection de fraude en temps réel et des systèmes IoT sécurisés.  
 Je recherche des opportunités qui combinent qualité logicielle, sécurité et innovation.
 
