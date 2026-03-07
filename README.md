@@ -21,9 +21,6 @@ Je recherche des opportunités qui combinent qualité logicielle, sécurité et 
 - J’apprends actuellement des concepts avancés en cybersécurité, détection d’anomalies et architectures cloud scalables.  
 - Je cherche à collaborer sur des projets impliquant le développement backend, l’automatisation de la sécurité et la détection d’anomalies avec IA.  
 - J’ai besoin d’aide pour approfondir mes compétences en sécurité cloud, orchestration Kubernetes et pipelines CI/CD de production.  
-- Posez-moi des questions sur : Java backend, REST API, Spring Boot, Flask, Python pour pipelines de données et bonnes pratiques de sécurité.  
-- Comment me contacter : [islem.chokri@umontreal.ca](mailto:islem.chokri@umontreal.ca) ou via LinkedIn.    
-- Fait intéressant : J’ai construit un système de détection de fraude traitant 50 000 transactions en moins de 8 secondes avec alerting multi-niveaux.
 
 ---
 
