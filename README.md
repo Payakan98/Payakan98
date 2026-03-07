@@ -2,8 +2,7 @@
 
 **Développeur Backend & Sécurité Applicative | Montréal, QC**  
 Email : [islem.chokri@umontreal.ca](mailto:islem.chokri@umontreal.ca)  
-LinkedIn : [https://www.linkedin.com/in/islem-chokri-2098/](https://www.linkedin.com/in/islem-chokri-2098/)  
-GitHub : [https://www.github.com/Payakan98/](https://www.github.com/Payakan98/)  
+LinkedIn : [https://www.linkedin.com/in/islem-chokri-2098/](https://www.linkedin.com/in/islem-chokri-2098/)   
 Disponibilité : Mai 2026
 
 ---
