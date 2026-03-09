@@ -14,7 +14,7 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP) — Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · alerting temps réel |
 | [**Task-Shift**](https://github.com/Payakan98/Task-Management-API) — API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
-| [**IoT-DSMS**](https://github.com/Payakan98/IoT-DSMS) — Sécurité IoT | Python · FastAPI · scikit-learn | Mises à jour OTA · RBAC · détection d'anomalies réseau |
+
 
 ---
 
