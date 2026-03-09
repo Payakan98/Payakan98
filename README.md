@@ -1,3 +1,53 @@
+# Islem Chokri — Développeur Backend
+
+Finissante en informatique à Montréal — il me reste 2 mois avant de lâcher l'université sur le marché du travail.  
+Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
+Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
+
+> *"Si ce n'est pas testé, c'est cassé. Si ce n'est pas documenté, ça n'existe pas."*
+
+---
+
+## Projets
+
+| Projet | Stack | Points clés |
+|---|---|---|
+| [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP) — Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · alerting temps réel |
+| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API) — API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
+| [**IoT-DSMS**](https://github.com/Payakan98/IoT-DSMS) — Sécurité IoT | Python · FastAPI · scikit-learn | Mises à jour OTA · RBAC · détection d'anomalies réseau |
+
+---
+
+## Compétences
+
+**Langages** — Java · Python · JavaScript · C · SQL · Bash  
+**Frameworks** — Spring Boot · Hibernate · FastAPI · Flask  
+**Sécurité** — JWT · RBAC · moteur de règles · détection d'anomalies · OWASP · concepts SIEM  
+**Infra** — Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
+**Certifications** — Network Defense · Networking Basics · Intro to Cybersecurity — Cisco (ICTC)
+
+---
+
+## En ce moment
+
+- Finissant mon bac tout en construisant des projets backend sécurisés
+- À la recherche d'un stage ou premier emploi à Montréal — backend, sécurité applicative, ou les deux
+- Points bonus si l'équipe a une opinion tranchée sur la convention de nommage des commits
+
+---
+
+## Anecdote
+
+J'ai déjà passé 3 heures à déboguer une erreur 403.  
+C'était un `Content-Type` manquant dans Postman. On n'en parle plus.
+
+
+---
+*🇬🇧 English version below — Version anglaise ci-dessous*
+---
+
+
+
 # Islem Chokri — Backend Developer
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
