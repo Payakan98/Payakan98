@@ -1,6 +1,5 @@
 # Islem Chokri — Développeur Backend
-
-Finissante en informatique à Montréal — il me reste 2 mois avant de lâcher l'université sur le marché du travail.  
+ 
 Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
 Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
 
