@@ -62,7 +62,6 @@ I build things that are secure by design — not by accident.
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP) — Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · real-time alerting |
 | [**Task-Shift**](https://github.com/Payakan98/Task-Management-API) — Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
-| [**IoT-DSMS**](https://github.com/Payakan98/IoT-DSMS) — IoT Security Management | Python · FastAPI · scikit-learn | OTA updates · RBAC · network anomaly detection |
 
 ---
 
