@@ -50,7 +50,7 @@ C'était un `Content-Type` manquant dans Postman. On n'en parle plus.
 # Islem Chokri - Backend Developer
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
-I build things that are secure by design — not by accident.
+I build things that are secure by design not by accident.
 
 > *"If it's not tested, it's broken. If it's not documented, it doesn't exist."*
 
