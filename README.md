@@ -1,4 +1,4 @@
-# Islem Chokri — Développeur Backend
+# Islem Chokri - Développeur Backend
  
 Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
 Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
@@ -11,26 +11,26 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 
 | Projet | Stack | Points clés |
 |---|---|---|
-| [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP) — Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · alerting temps réel |
-| [**Task-Management-API**](https://github.com/Payakan98/Task-Management-API) — API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
+| [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · alerting temps réel |
+| [**Task-Management-API**](https://github.com/Payakan98/Task-Management-API)  API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
 
 
 ---
 
 ## Compétences
 
-**Langages** — Java · Python · JavaScript · C · SQL · Bash  
-**Frameworks** — Spring Boot · Hibernate · FastAPI · Flask  
-**Sécurité** — JWT · RBAC · moteur de règles · détection d'anomalies · OWASP · concepts SIEM  
-**Infra** — Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
-**Certifications** — Network Defense · Networking Basics · Intro to Cybersecurity — Cisco (ICTC)
+**Langages**  Java · Python · JavaScript · C · SQL · Bash  
+**Frameworks**  Spring Boot · Hibernate · FastAPI · Flask  
+**Sécurité**  JWT · RBAC · moteur de règles · détection d'anomalies · OWASP · concepts SIEM  
+**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
+**Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
 
 ---
 
 ## En ce moment
 
 - Finissant mon bac tout en construisant des projets backend sécurisés
-- À la recherche d'un stage ou premier emploi à Montréal — backend, sécurité applicative, ou les deux
+- À la recherche d'un stage ou premier emploi à Montréal en backend, sécurité applicative, ou les deux
 - Points bonus si l'équipe a une opinion tranchée sur la convention de nommage des commits
 
 ---
@@ -42,12 +42,12 @@ C'était un `Content-Type` manquant dans Postman. On n'en parle plus.
 
 
 ---
-*🇬🇧 English version below — Version anglaise ci-dessous*
+*🇬🇧 English version below - Version anglaise ci-dessous*
 ---
 
 
 
-# Islem Chokri — Backend Developer
+# Islem Chokri - Backend Developer
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
 I build things that are secure by design — not by accident.
@@ -60,18 +60,18 @@ I build things that are secure by design — not by accident.
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP) — Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · real-time alerting |
-| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API) — Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
+| [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · real-time alerting |
+| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
 
 ---
 
 ## Skills
 
-**Languages** — Java · Python · JavaScript · C · SQL · Bash  
-**Frameworks** — Spring Boot · Hibernate · FastAPI · Flask  
-**Security** — JWT · RBAC · rules engine · anomaly detection · OWASP · SIEM concepts  
-**Infra** — Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
-**Certifications** — Network Defense · Networking Basics · Intro to Cybersecurity — Cisco (ICTC)
+**Languages**  Java · Python · JavaScript · C · SQL · Bash  
+**Frameworks**  Spring Boot · Hibernate · FastAPI · Flask  
+**Security**  JWT · RBAC · rules engine · anomaly detection · OWASP · SIEM concepts  
+**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
+**Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
 
 ---
 
@@ -79,7 +79,7 @@ I build things that are secure by design — not by accident.
 
 - Building secure backend systems and fraud detection pipelines
 - Exploring cloud-native architectures and advanced cybersecurity concepts
-- Looking for backend or application security roles — bonus points if the codebase has tests
+- Looking for backend or application security roles, bonus points if the codebase has tests
 
 ---
 
