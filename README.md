@@ -1,4 +1,4 @@
-# Islem Chokri - Développeur Backend
+# Islem Chokri - Développeur Backend Java/Python  Junior- Sécurité Applicative
  
 Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
 Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
@@ -47,7 +47,7 @@ C'était un `Content-Type` manquant dans Postman. On n'en parle plus.
 
 
 
-# Islem Chokri - Backend Developer
+# Islem Chokri - Junior Application Security Engineer — Backend Java/Python
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
 I build things that are secure by design not by accident.
