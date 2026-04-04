@@ -1,4 +1,4 @@
-# Islem Chokri - Développeur Backend Java/Python  Junior- Sécurité Applicative
+# Islem Chokri - Développeuse Backend Java/Python  Junior- Sécurité Applicative
  
 Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
 Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
@@ -12,7 +12,7 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 | Projet | Stack | Points clés |
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · [🔗 Live Demo](https://bankguard-mvp.onrender.com) |
-| [**Task-Management-API**](https://github.com/Payakan98/Task-Management-API)  API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
+| [**Task-Management-API**](https://github.com/Payakan98/Task-Management-API)  API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
 
 
 ---
@@ -20,9 +20,9 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 ## Compétences
 
 **Langages**  Java · Python · JavaScript · C · SQL · Bash  
-**Frameworks**  Spring Boot · Hibernate · FastAPI · Flask  
+**Frameworks**  Spring Boot · Hibernate  · Flask  
 **Sécurité**  JWT · RBAC · moteur de règles · détection d'anomalies · OWASP · concepts SIEM  
-**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
+**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL   
 **Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
 
 ---
@@ -61,16 +61,16 @@ I build things that are secure by design not by accident.
 | Project | Stack | Highlights |
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · [🔗 Live Demo](https://bankguard-mvp.onrender.com) |
-| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 31 tests · CI/CD · Swagger |
+| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
 
 ---
 
 ## Skills
 
 **Languages**  Java · Python · JavaScript · C · SQL · Bash  
-**Frameworks**  Spring Boot · Hibernate · FastAPI · Flask  
+**Frameworks**  Spring Boot · Hibernate · Flask  
 **Security**  JWT · RBAC · rules engine · anomaly detection · OWASP · SIEM concepts  
-**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL · MongoDB  
+**Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL   
 **Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
 
 ---
