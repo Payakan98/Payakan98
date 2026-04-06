@@ -12,7 +12,7 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 | Projet | Stack | Points clés |
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Détection de fraude | Python · Flask · scikit-learn | Pipeline 5 stages · AUPRC 0.91 · AUC-ROC 0.94 · [🔗 Live Demo](https://bankguard-mvp.onrender.com) |
-| [**Task-Management-API**](https://github.com/Payakan98/Task-Management-API)  API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
+| [**TaskShift**](https://github.com/Payakan98/Task-Management-API)  API de gestion RH | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
 
 
 ---
@@ -61,7 +61,7 @@ I build things that are secure by design not by accident.
 | Project | Stack | Highlights |
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · [🔗 Live Demo](https://bankguard-mvp.onrender.com) |
-| [**Task-Shift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
+| [**TaskShift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger |
 
 ---
 
