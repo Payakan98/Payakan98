@@ -1,4 +1,5 @@
 # Islem Chokri - Développeuse Backend Java/Python Junior - Sécurité Applicative
+🔗 [LinkedIn](https://www.linkedin.com/in/islem-chokri-2098/)
  
 Je passe mes journées à concevoir des APIs sécurisées et des pipelines de détection de fraude.  
 Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsession pour la détection de menaces.
