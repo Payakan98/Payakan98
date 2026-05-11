@@ -1,7 +1,3 @@
----
-*🇬🇧 Version française ci-dessous*
----
-
 # Islem Chokri - Junior Backend Java/Python - Application Security
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
@@ -42,6 +38,11 @@ I build things that are secure by design not by accident.
 
 I once spent 3 hours debugging a 403 error.  
 It was a missing `Content-Type` header. We don't talk about it.
+
+
+---
+*🇬🇧 Version française ci-dessous*
+---
 
 
 # Islem Chokri - Développeuse Backend Java/Python Junior - Sécurité Applicative
