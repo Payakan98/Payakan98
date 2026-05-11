@@ -2,7 +2,6 @@
 *🇬🇧 Version française ci-dessous*
 ---
 
---------------------------------------------------------------------------------------------------------------------------------
 # Islem Chokri - Junior Backend Java/Python - Application Security
 
 Backend developer who gets unreasonably excited about clean architecture, JWT flows, and fraud detection pipelines.  
