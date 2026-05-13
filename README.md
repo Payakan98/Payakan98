@@ -20,7 +20,7 @@ I build things that are secure by design not by accident.
 
 **Languages**  Java · Python · JavaScript · C · SQL · Bash  
 **Frameworks**  Spring Boot · Hibernate · Flask  
-**Cloud**  AWS (EC2, IAM, EBS, ELB, Auto Scaling, CloudWatch, CloudTrail, EventBridge, Organizations, Trusted Advisor, Well-Architected Framework), Azure DevOps
+**Cloud**  AWS (EC2, IAM, EBS, ELB, Auto Scaling, CloudWatch, CloudTrail, EventBridge)· Azure DevOps
 **Security**  JWT · RBAC · rules engine · anomaly detection · OWASP · SIEM concepts  
 **Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL   
 **Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
@@ -70,7 +70,7 @@ Mes soirées ? À lire des romans policiers. Ce qui explique peut-être l'obsess
 
 **Langages**  Java · Python · JavaScript · C · SQL · Bash  
 **Frameworks**  Spring Boot · Hibernate  · Flask  
-**Cloud**  AWS (EC2, IAM, EBS, ELB, Auto Scaling, CloudWatch, CloudTrail, EventBridge, Organizations, Trusted Advisor, Well-Architected Framework), Azure DevOps
+**Cloud**  AWS (EC2, IAM, EBS, ELB, Auto Scaling, CloudWatch, CloudTrail, EventBridge)· Azure DevOps
 **Sécurité**  JWT · RBAC · moteur de règles · détection d'anomalies · OWASP · concepts SIEM  
 **Infra**  Docker · GitHub Actions · Maven · Linux · PostgreSQL   
 **Certifications**  Network Defense · Networking Basics · Intro to Cybersecurity - Cisco (ICTC)
