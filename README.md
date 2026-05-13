@@ -12,7 +12,7 @@ I build things that are secure by design not by accident.
 | Project | Stack | Highlights |
 |---|---|---|
 | [**BankGuard**](https://github.com/Payakan98/BankGuard-MVP)  Fraud Detection System | Python · Flask · scikit-learn | 5-stage pipeline · AUPRC 0.91 · AUC-ROC 0.94 · [🔗 Live Demo](https://bankguard-mvp.onrender.com) |
-| [**TaskShift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger · [🔗 Live API](https://35.183.103.95:8080/swagger-ui.html) | 
+| [**TaskShift**](https://github.com/Payakan98/Task-Management-API)  Workforce Management API | Java · Spring Boot · Docker | JWT + RBAC · 34 tests · CI/CD · Swagger · [🔗 Live API](https://35.183.29.415:8080/swagger-ui.html) | 
 
 ---
 
